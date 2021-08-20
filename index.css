@@ -1,0 +1,46 @@
+h1 {
+  color: rgb(25, 105, 226);
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: -80px;
+}
+
+.temp {
+  height: 100px;
+}
+
+.image1 {
+  float: left;
+  margin-top: 10px;
+}
+
+.image2 {
+  float: left;
+  margin-top: 17px;
+}
+
+.me-info {
+  margin: 30px;
+  margin-top: 50px;
+}
+
+.name {
+  margin-top: 10px;
+}
+
+.projects {
+  width: 700px;
+  height: 500px;
+  position: fixed;
+  background-color: #3333;
+  top: 50%;
+  left: 50%;
+  margin-top: -200px;
+  margin-left: -250px;
+  padding: 20px;
+}
+h2 {
+  text-align: center;
+  color: rgb(25, 105, 226);
+}
